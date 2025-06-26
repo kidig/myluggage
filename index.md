@@ -1,3 +1,1 @@
-# my luggage
-
-list of my luggage
+# list of my luggage
